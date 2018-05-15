@@ -175,7 +175,7 @@ class Classifier:
         # the scikit learn pipeline for vectorizing, normalizing and classifying text 
         text_clf = Pipeline([('vect', CountVectorizer()),
                             ('tfidf', TfidfTransformer()),
-                            ('clf',LogisticRegression(class_weight='auto',dual=True))])
+                            ('clf',LogisticRegression(class_weight='balanced',dual=True))])
         parameters = {'vect__ngram_range': [(1, 1)],\
                'tfidf__use_idf': (True,False),\
                'clf__C': (10.**arange(4,5,1.)).tolist()}  
