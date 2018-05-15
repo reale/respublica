@@ -1,171 +1,171 @@
-"text","cmp_code","eu_code"
-"STATO  E  CITTADINI",NA,NA
-"L’organizzazione attuale dello Stato è burocratica, sovradimensionata, costosa, inefficiente.","303",NA
-"Il Parlamento non rappresenta più i cittadini che non possono scegliere il candidato, ma solo il simbolo del partito.","202",NA
-"La Costituzione non è applicata.","203",NA
-"I partiti si sono sostituiti alla volontà popolare e sottratti al suo controllo e giudizio.","304",NA
-"Abolizione delle province","302",NA
-"Accorpamento dei Comuni sotto i 5.000 abitanti","302",NA
-"Abolizione del Lodo Alfano","304",NA
-"Insegnamento della Costituzione ed esame obbligatorio per ogni rappresentante pubblico","203",NA
-"Riduzione a due mandati per i parlamentari e per qualunque altra carica pubblica","304",NA
-"Eliminazione di ogni privilegio particolare per i parlamentari, tra questi il diritto alla pensione dopo due anni e mezzo","304",NA
-"Divieto per i parlamentari di esercitare un’altra professione durante il mandato","304",NA
-"Stipendio parlamentare allineato alla media degli stipendi nazionali","304",NA
-"Divieto di cumulo delle cariche per i parlamentari (esempio: sindaco e deputato)","304",NA
-"Non eleggibilità a cariche pubbliche per i cittadini condannati","304",NA
-"Partecipazione diretta a ogni incontro pubblico da parte dei cittadini via web, come già avviene per Camera e Senato","202",NA
-"Abolizione delle Authority e contemporanea introduzione di una vera class action","202",NA
-"Referendum sia abrogativi che propositivi senza quorum","202",NA
-"Obbligatorietà della discussione parlamentare e del voto nominale per le leggi di iniziativa popolare","202",NA
-"Approvazione di ogni legge subordinata alla effettiva copertura finanziaria","414",NA
-"Leggi rese pubbliche on line almeno tre mesi prima delle loro approvazione per ricevere i commenti dei cittadini.","202",NA
-"ENERGIA",NA,NA
-"Se venisse applicata rigorosamente la legge 10/91, per riscaldare gli edifici si consumerebbero 14 litri di gasolio, o metri cubi di metano, al metro quadrato calpestabile all’anno.","501",NA
-"In realtà se ne consumano di più.","501",NA
-"Dal 2002 la legge tedesca, e più di recente la normativa in vigore nella Provincia di Bolzano, fissano a 7 litri di gasolio, o metri cubi di metano, al metro quadrato calpestabile all’anno il consumo massimo consentito nel riscaldamento ambienti.","501",NA
-"Meno della metà del consumo medio italiano.","501",NA
-"Utilizzando l’etichettatura in vigore negli elettrodomestici, nella Provincia di Bolzano questo livello corrisponde alla classe C, mentre alla classe B corrisponde a un consumo non superiore a 5 litri di gasolio, o metri cubi di metano, e alla classe A un consumo non superiore a 3 litri di gasolio, o metri cubi di metano, al metro quadrato all’anno.","501",NA
-"Nel riscaldamento degli ambienti, una politica energetica finalizzata alla riduzione delle emissioni di CO2, anche per evitare le sanzioni economiche previste dal trattato di Kyoto nei confronti dei Paesi inadempienti, deve articolarsi nei seguenti punti:","501",NA
-"Applicazione immediata della normativa, già prevista dalla legge 10/91 e prescritta dalla direttiva europea 76/93, sulla certificazione energetica degli edifici","501",NA
-"Definizione della classe C della provincia di Bolzano come livello massimo di consumi per la concessione delle licenze edilizie relative sia alle nuove costruzioni, sia alle ristrutturazioni di edifici esistenti","501",NA
-"Riduzione di almeno il 10 per cento in cinque anni dei consumi energetici del patrimonio edilizio degli enti pubblici, con sanzioni finanziare per gli inadempienti","501",NA
-"Agevolazioni sulle anticipazioni bancarie e semplificazioni normative per i contratti di ristrutturazioni energetiche col metodo esco (energy service company), ovvero effettuate a spese di chi le realizza e ripagate dal risparmio economico che se ne ricava","501",NA
-"Elaborazione di una normativa sul pagamento a consumo dell’energia termica nei condomini, come previsto dalla direttiva europea 76/93, già applicata da altri Paesi europei.","501",NA
-"Il rendimento medio delle centrali termoelettriche dell’Enel si attesta intorno al 38%.","501",NA
-"Lo standard con cui si costruiscono le centrali di nuova generazione, i cicli combinati, è del 55/60%.","501",NA
-"La co-generazione diffusa di energia elettrica e calore, con utilizzo del calore nel luogo di produzione e trasporto a distanza dell’energia elettrica, consente di utilizzare il potenziale energetico del combustibile fino al 97%.","501",NA
-"Le inefficienze e gli sprechi attuali nella produzione termoelettrica non sono accettabili né tecnologicamente, né economicamente, né moralmente, sia per gli effetti devastanti sugli ambienti, sia perché accelerano l’esaurimento delle risorse fossili, sia perché comportano un loro accaparramento da parte dei Paesi ricchi a danno dei Paesi poveri.","501",NA
-"Non è accettabile di per sé togliere il necessario a chi ne ha bisogno, ma se poi si spreca, è inconcepibile.","501",NA
-"Per accrescere l’offerta di energia elettrica non è necessario costruire nuove centrali, di nessun tipo.","501",NA
-"La prima cosa da fare è accrescere l’efficienza e ridurre gli sprechi delle centrali esistenti, accrescendo al contempo l’efficienza con cui l’energia prodotta viene utilizzata dalle utenze (lampade, elettrodomestici, condizionatori e macchinari industriali).","501",NA
-"Solo in seguito, se l’offerta di energia sarà ancora carente, si potrà decidere di costruire nuovi impianti di generazione elettrica.","501",NA
-"Nella produzione di energia elettrica e termica, una politica energetica finalizzata alla riduzione delle emissioni di CO2 anche accrescendo l’offerta, deve articolarsi nei seguenti punti:","501",NA
-"Potenziamento e riduzione dell’impatto ambientale delle centrali termoelettriche esistenti","501",NA
-"Incentivazione della produzione distribuita di energia elettrica con tecnologie che utilizzano le fonti fossili nei modi più efficienti, come la co-generazione diffusa di energia elettrica e calore, a partire dagli edifici più energivori: ospedali, centri com-merciali, industrie con processi che utilizzano calore tecnologico, centri sportivi ecc.","501",NA
-"Estensione della possibilità di riversare in rete e di vendere l’energia elettrica anche agli impianti di micro-cogenerazione di taglia inferiore ai 20 kW","501",NA
-"Incentivazione della produzione distribuita di energia elettrica estendendo a tutte le fonti rinnovabili e alla micro-cogenerazione diffusa la normativa del conto energia, vincolandola ai kW riversati in rete nelle ore di punta ed escludendo i chilowattora prodotti nelle ore vuote","501",NA
-"Applicazione rigorosa della normativa prevista dai decreti sui certificati di efficienza energetica, anche in considerazione dell’incentivazione alla produzione di energia elettrica da fonti rinnovabili che essi comportano","501",NA
-"Eliminazione degli incentivi previsti dal CIP6 alla combustione dei rifiuti in base al loro inserimento, privo di fondamento tecnico-scientifico, tra le fonti rinnovabili","501",NA
-"Legalizzazione e incentivazione della produzione di biocombustibili, vincolando all’incremento della sostanza organica nei suoli le produzioni agricole finalizzate a ciò","501",NA
-"Incentivazione della produzione distribuita di energia termica con fonti rinnovabili, in particolare le biomasse vergini, in piccoli impianti finalizzati all’autoconsumo, con un controllo rigoroso del legno proveniente da raccolte differenziate ed esclu-dendo dagli incentivi la distribuzione a distanza del calore per la sua inefficienza e il suo impatto ambientale","501",NA
-"Incentivazione della produzione di biogas dalla fermentazione anaerobica dei rifiuti organici.","501",NA
-"L’informazione è uno dei fondamenti della democrazia e della sopravvivenza individuale.","202",NA
-"Se il controllo dell’informazione è concentrato in pochi attori, inevitabilmente si manifestano derive antidemocratiche.","202",NA
-"Se l’informazione ha come riferimenti i soggetti economici e non il cittadino, gli interessi delle multinazionali e dei gruppi di potere economico prevalgono sugli interessi del singolo.","202",NA
-"L’informazione quindi è alla base di qualunque altra area di interesse sociale.","202",NA
-"Il cittadino non informato o disinformato non può decidere, non può scegliere.","202",NA
-"Assume un ruolo di consumatore e di elettore passivo, escluso dalle scelte che lo riguardano.","202",NA
-"Le proposte:",NA,NA
-"Cittadinanza digitale per nascita, accesso alla rete gratuito per ogni cittadino italiano","403",NA
-"Eliminazione dei contributi pubblici per il finanziamento delle testate giornalistiche","403",NA
-"Nessun canale televisivo con copertura nazionale può essere posseduto a maggioranza da alcun soggetto privato, l’azionariato deve essere diffuso con proprietà massima del 10%","403",NA
-"Le frequenze televisive vanno assegnate attraverso un’asta pubblica ogni cinque anni","403",NA
-"Abolizione della legge del governo D’Alema che richiede un contributo dell’uno per cento sui ricavi agli assegnatari di frequenze televisive","403",NA
-"Nessun quotidiano con copertura nazionale può essere posseduto a maggioranza da alcun soggetto privato, l’azionariato diffuso con proprietà massima del 10%","403",NA
-"Abolizione dell’Ordine dei giornalisti","403",NA
-"Vendita ad azionariato diffuso, con proprietà massima del 10%, di due canali televisivi pubblici","403",NA
-"Un solo canale televisivo pubblico, senza pubblicità, informativo e culturale,indipendente dai partiti","403",NA
-"Abolizione della legge Gasparri","403",NA
-"Copertura completa dell’ADSL a livello di territorio nazionale","411",NA
-"Statalizzazione della dorsale telefonica, con il suo riacquisto a prezzo di costo da Telecom Italia, e l’impegno da parte dello Stato di fornire gli stessi servizi a prezzi competitivi ad ogni operatore telefonico","413",NA
-"•  Abolizione  della  legge  Pisanu  sulla  limitazione  all’accesso  wi f i.=   obiettivo  raggiunto","411",NA
-"Introduzione dei ripetitori Wimax per l’accesso mobile e diffuso alla Rete","411",NA
-"Eliminazione del canone telefonico per l’allacciamento alla rete fissa","403",NA
-"Allineamento immediato delle tariffe di connessione a Internet e telefoniche a quelle europee","403",NA
-"Tetto nazionale massimo del 5% per le società di raccolta pubblicitaria facenti capo a un singolo soggetto economico privato","403",NA
-"Riduzione del tempo di decorrenza della proprietà intellettuale a 20 anni","403",NA
-"Abolizione della legge Urbani sul copyright","403",NA
-"Divieto della partecipazione azionaria da parte delle banche e di enti pubblici o para pubblici a società editoriali","403",NA
-"Depenalizzazione della querela per diffamazione e riconoscimento al querelato dello stesso importo richiesto in caso di non luogo a procedere (importo depositato presso il tribunale in anticipo in via cautelare all’atto della querela)","403",NA
-"ECONOMIA",NA,NA
-"Introduzione della class action","403",NA
-"Abolizione delle scatole cinesi in Borsa","403",NA
-"Abolizione di cariche multiple da parte di consiglieri di amministrazione nei consigli di società quotate","403",NA
-"Introduzione di strutture di reale rappresentanza dei piccoli azionisti nelle società quotate","403",NA
-"Abolizione della legge Biagi","701",NA
-"Impedire lo smantellamento delle industrie alimentari e manifatturiere con un prevalente mercato interno","402",NA
-"Vietare gli incroci azionari tra sistema bancario e sistema industriale","403",NA
-"Introdurre la responsabilità degli istituti finanziari sui prodotti proposti con una compartecipazione alle eventuali perdite","403",NA
-"Impedire ai consiglieri di amministrazione di ricoprire alcuna altra carica nella stessa società se questa si è resa responsabile di gravi reati","403",NA
-"Impedire l’acquisto prevalente a debito di una società (es. Telecom Italia)","403",NA
-"Introduzione di un tetto per gli stipendi del management delle aziende quotate in Borsa e delle aziende con partecipazione rilevante o maggioritaria dello Stato","403",NA
-"Abolizione delle stock option","403",NA
-"Abolizione dei monopoli di fatto, in particolare Telecom Italia, Autostrade, ENI, ENEL, Mediaset, Ferrovie dello Stato","403",NA
-"Allineamento delle tariffe di energia, connettività, telefonia, elettricità, trasporti agli altri Paesi europei","403",NA
-"Riduzione del debito pubblico con forti interventi sui costi dello Stato con il taglio degli sprechi e con l’introduzione di nuove tecnologie per consentire al cittadino l’accesso alle informazioni e ai servizi senza bisogno di intermediari","303",NA
-"Vietare la nomina di persone condannate in via definitiva (es. Scaroni all’Eni) come amministratori in aziende aventi come azionista lo Stato o quotate in Borsa","605",NA
-"Favorire le produzioni locali","416",NA
-"Sostenere le società no profit","416",NA
-"Sussidio di disoccupazione garantito","701",NA
-"Disincentivi alle aziende che generano un danno sociale (es.distributori di acqua in bottiglia).","403",NA
-"TRASPORTI",NA,NA
-"Disincentivo dell’uso dei mezzi privati motorizzati nelle aree urbane","501",NA
-"Sviluppo di reti di piste ciclabili protette estese a tutta l’area urbana ed extra urbana","501",NA
-"Istituzione di spazi condominiali per il parcheggio delle biciclette","501",NA
-"Istituzione dei parcheggi per le biciclette nelle aree urbane","501",NA
-"Introduzione di una forte tassazione per l’ingresso nei centri storici di automobili private con un solo occupante a bordo","501",NA
-"Potenziamento dei mezzi pubblici a uso collettivo e dei mezzi pubblici a uso individuale (car sharing) con motori elettrici alimentati da reti","501",NA
-"Blocco immediato del Ponte sullo Stretto","501",NA
-"Blocco immediato della Tav in Val di Susa","501",NA
-"Proibizione di costruzione di nuovi parcheggi nelle aree urbane","501",NA
-"Sviluppo delle tratte ferroviarie legate al pendolarismo","411",NA
-"Copertura dell’intero Paese con la banda larga","411",NA
-"Incentivazione per le imprese che utilizzano il telelavoro","402",NA
-"Sistema di collegamenti efficienti tra diverse forme di trasporto pubblici","402",NA
-"Incentivazione di strutture di accoglienza per uffici dislocati sul territorio collegati a Internet","402",NA
-"Incentivazione dei mercati locali con produzioni provenienti dal territorio","416",NA
-"Corsie riservate per i mezzi pubblici nelle aree urbane","501",NA
-"Piano di mobilità per i disabili obbligatorio a livello comunale.","705",NA
-"SALUTE",NA,NA
-"L’Italia è uno dei pochi Paesi con un sistema sanitario pubblico ad accesso universali.","504",NA
-"Due fatti però stanno minando alle basi l’universalità e l’omogeneità del Servizio Sanitario Nazionale: la devolution, che affida alle Regioni l’assistenza sanitaria e il suo finanziamento e accentua le differenze territoriali, e la sanità privata che sottrae risorse e talenti al pubblico.","504",NA
-"Si tende inoltre ad organizzare la Sanità come un’azienda e a far prevalere gli obiettivi economici rispetto a quelli di salute e di qualità dei servizi.","504",NA
-"GRATUITÀ DELLE CURE ED EQUITÀ DI ACCESSO",NA,NA
-"Garantire l’accesso alle prestazioni essenziali del Servizio Sanitario Nazionale universale e gratuito","504",NA
-"Ticket proporzionali al reddito per le prestazioni non essenziali","504",NA
-"Monitorare e correggere gli effetti della devolution sull’equità d’accesso alla Sanità","504",NA
-"FARMACI",NA,NA
-"Promuovere l’uso di farmaci generici e fuori brevetto, equivalenti e meno costosi rispetto ai farmaci “di marca” (che in Italia costano spesso di più che all’estero) e più sicuri rispetto ai prodotti di recente approvazione","403",NA
-"Prescrizione medica dei principi attivi invece delle marche delle singole specialità (come avviene ad esempio in Gran Bretagna)","403",NA
-"INFORMAZIONE",NA,NA
-"Programma di educazione sanitaria indipendente pubblico e permanente sul corretto uso dei farmaci, sui loro rischi e benefici","504",NA
-"Politica sanitaria nazionale di tipo culturale per promuovere stili di vita salutari e scelte di consumo consapevoli per sviluppare l’autogestione della salute (operando sui fattori di rischio e di protezione delle malattie) e l’automedicazione semplice","504",NA
-"Informare sulla prevenzione primaria (alimentazione sana, attività fisica, astensione dal fumo) e sui limiti della prevenzione secondaria (screening, diagnosi precoce, medicina predittiva), ridimensionandone la portata, perché spesso risponde a logiche commerciali","504",NA
-"Sistema di misurazione della qualità degli interventi negli ospedali (tassi di successo, mortalità, volume dei casi trattati ecc.) di pubblico dominio","504",NA
-"MEDICI",NA,NA
-"Proibire gli incentivi economici agli informatori “SCIENTIFICI” sulle vendite dei farmaci","403",NA
-"Separare le carriere dei medici pubblici e privati, non consentire a un medico che lavora in strutture pubbliche di Operare nel privato","403",NA
-"Incentivazione della permanenza dei medici nel pubblico, legandola al merito con tetti massimi alle tariffe richieste in sede privata","403",NA
-"Criteri di trasparenza e di merito nella promozione dei primari","403",NA
-"ORGANIZZAZIONE",NA,NA
-"Liste di attesa pubbliche e on line","504",NA
-"Istituzione di centri unici di prenotazione on line","504",NA
-"Convenzioni con le strutture private rese pubbliche e on line","504",NA
-"Investire sui consultori familiari","504",NA
-"Limitare l’influenza dei direttori generali nelle ASL e negli ospedali attraverso la reintroduzione dei consigli di amministrazione","504",NA
-"LOTTA PER IL DOLORE",NA,NA
-"Allineare l’Italia agli altri Paesi europei e alle direttive dell’Organizzazione Mondiale della Sanità (OMS) nella lotta al dolore.","504",NA
-"In particolare per l’uso degli oppiacei (morfina e simili)","504",NA
-"RICERCA",NA,NA
-"Possibilità dell’8 per mille alla ricerca medico-scientifica","504",NA
-"Finanziare la ricerca indipendente attingendo ai fondi destinati alla ricerca militare","504",NA
-"Promuovere e finanziare ricerche sugli effetti sulla salute, in particolare legate alle disuguaglianze sociali e all’inquinamento ambientale dando priorità ai ricercatori indipendenti","504",NA
-"Promuovere la ricerca sulle malattie rare e spesare le cure all’estero in assenza di strutture nazionali","504",NA
-"Introdurre, sulla base delle raccomandazioni dell’OMS, a livello di Governo centrale e regionale, la valutazione dell’impatto sanitario delle politiche pubbliche, in particolare per i settori dei trasporti, dell’urbanistica, dell’ambiente, del lavoro e dell’educazione","504",NA
-"AMMINISTRATORI PUBBLICI",NA,NA
-"Eliminazione degli inceneritori","501",NA
-"Introduzione del reato di strage per danni sensibili e diffusi causati dalle politiche locali e nazionali che comportano malattie e decessi nei cittadini nei confronti degli amministratori pubblici (ministri, presidenti di Regione, sindaci, assessori).","605",NA
-"ISTRUZIONE",NA,NA
-"Abolizione della legge Gelmini","506",NA
-"Diffusione obbligatoria di Internet nelle scuole con l’accesso per gli studenti","506",NA
-"Graduale abolizione dei libri di scuola stampati, e quindi la loro gratuità, con l’accessibilità via Internet in formato digitale","506",NA
-"Insegnamento obbligatorio della lingua inglese dall’asilo","506",NA
-"Abolizione del valore legale dei titoli di studio","506",NA
-"Risorse finanziarie dello Stato erogate solo alla scuola pubblica","506",NA
-"Valutazione dei docenti universitari da parte degli studenti","506",NA
-"Insegnamento gratuito della lingua italiana per gli stranieri(obbligatorio in caso di richiesta di cittadinanza)","506",NA
-"Accesso pubblico via Internet alle lezioni universitarie","506",NA
-"Investimenti nella ricerca universitaria a distanza via Internet","506",NA
-"Integrazione Università/Aziende","506",NA
-"Sviluppo strutture di accoglienza degli studenti","506",NA
+"content","cmp_code","eu_code"
+"STATO  E  CITTADINI",NA,0
+"L’organizzazione attuale dello Stato è burocratica, sovradimensionata, costosa, inefficiente.","303",0
+"Il Parlamento non rappresenta più i cittadini che non possono scegliere il candidato, ma solo il simbolo del partito.","202",0
+"La Costituzione non è applicata.","203",0
+"I partiti si sono sostituiti alla volontà popolare e sottratti al suo controllo e giudizio.","304",0
+"Abolizione delle province","302",0
+"Accorpamento dei Comuni sotto i 5.000 abitanti","302",0
+"Abolizione del Lodo Alfano","304",0
+"Insegnamento della Costituzione ed esame obbligatorio per ogni rappresentante pubblico","203",0
+"Riduzione a due mandati per i parlamentari e per qualunque altra carica pubblica","304",0
+"Eliminazione di ogni privilegio particolare per i parlamentari, tra questi il diritto alla pensione dopo due anni e mezzo","304",0
+"Divieto per i parlamentari di esercitare un’altra professione durante il mandato","304",0
+"Stipendio parlamentare allineato alla media degli stipendi nazionali","304",0
+"Divieto di cumulo delle cariche per i parlamentari (esempio: sindaco e deputato)","304",0
+"Non eleggibilità a cariche pubbliche per i cittadini condannati","304",0
+"Partecipazione diretta a ogni incontro pubblico da parte dei cittadini via web, come già avviene per Camera e Senato","202",0
+"Abolizione delle Authority e contemporanea introduzione di una vera class action","202",0
+"Referendum sia abrogativi che propositivi senza quorum","202",0
+"Obbligatorietà della discussione parlamentare e del voto nominale per le leggi di iniziativa popolare","202",0
+"Approvazione di ogni legge subordinata alla effettiva copertura finanziaria","414",0
+"Leggi rese pubbliche on line almeno tre mesi prima delle loro approvazione per ricevere i commenti dei cittadini.","202",0
+"ENERGIA",NA,0
+"Se venisse applicata rigorosamente la legge 10/91, per riscaldare gli edifici si consumerebbero 14 litri di gasolio, o metri cubi di metano, al metro quadrato calpestabile all’anno.","501",0
+"In realtà se ne consumano di più.","501",0
+"Dal 2002 la legge tedesca, e più di recente la normativa in vigore nella Provincia di Bolzano, fissano a 7 litri di gasolio, o metri cubi di metano, al metro quadrato calpestabile all’anno il consumo massimo consentito nel riscaldamento ambienti.","501",0
+"Meno della metà del consumo medio italiano.","501",0
+"Utilizzando l’etichettatura in vigore negli elettrodomestici, nella Provincia di Bolzano questo livello corrisponde alla classe C, mentre alla classe B corrisponde a un consumo non superiore a 5 litri di gasolio, o metri cubi di metano, e alla classe A un consumo non superiore a 3 litri di gasolio, o metri cubi di metano, al metro quadrato all’anno.","501",0
+"Nel riscaldamento degli ambienti, una politica energetica finalizzata alla riduzione delle emissioni di CO2, anche per evitare le sanzioni economiche previste dal trattato di Kyoto nei confronti dei Paesi inadempienti, deve articolarsi nei seguenti punti:","501",0
+"Applicazione immediata della normativa, già prevista dalla legge 10/91 e prescritta dalla direttiva europea 76/93, sulla certificazione energetica degli edifici","501",0
+"Definizione della classe C della provincia di Bolzano come livello massimo di consumi per la concessione delle licenze edilizie relative sia alle nuove costruzioni, sia alle ristrutturazioni di edifici esistenti","501",0
+"Riduzione di almeno il 10 per cento in cinque anni dei consumi energetici del patrimonio edilizio degli enti pubblici, con sanzioni finanziare per gli inadempienti","501",0
+"Agevolazioni sulle anticipazioni bancarie e semplificazioni normative per i contratti di ristrutturazioni energetiche col metodo esco (energy service company), ovvero effettuate a spese di chi le realizza e ripagate dal risparmio economico che se ne ricava","501",0
+"Elaborazione di una normativa sul pagamento a consumo dell’energia termica nei condomini, come previsto dalla direttiva europea 76/93, già applicata da altri Paesi europei.","501",0
+"Il rendimento medio delle centrali termoelettriche dell’Enel si attesta intorno al 38%.","501",0
+"Lo standard con cui si costruiscono le centrali di nuova generazione, i cicli combinati, è del 55/60%.","501",0
+"La co-generazione diffusa di energia elettrica e calore, con utilizzo del calore nel luogo di produzione e trasporto a distanza dell’energia elettrica, consente di utilizzare il potenziale energetico del combustibile fino al 97%.","501",0
+"Le inefficienze e gli sprechi attuali nella produzione termoelettrica non sono accettabili né tecnologicamente, né economicamente, né moralmente, sia per gli effetti devastanti sugli ambienti, sia perché accelerano l’esaurimento delle risorse fossili, sia perché comportano un loro accaparramento da parte dei Paesi ricchi a danno dei Paesi poveri.","501",0
+"Non è accettabile di per sé togliere il necessario a chi ne ha bisogno, ma se poi si spreca, è inconcepibile.","501",0
+"Per accrescere l’offerta di energia elettrica non è necessario costruire nuove centrali, di nessun tipo.","501",0
+"La prima cosa da fare è accrescere l’efficienza e ridurre gli sprechi delle centrali esistenti, accrescendo al contempo l’efficienza con cui l’energia prodotta viene utilizzata dalle utenze (lampade, elettrodomestici, condizionatori e macchinari industriali).","501",0
+"Solo in seguito, se l’offerta di energia sarà ancora carente, si potrà decidere di costruire nuovi impianti di generazione elettrica.","501",0
+"Nella produzione di energia elettrica e termica, una politica energetica finalizzata alla riduzione delle emissioni di CO2 anche accrescendo l’offerta, deve articolarsi nei seguenti punti:","501",0
+"Potenziamento e riduzione dell’impatto ambientale delle centrali termoelettriche esistenti","501",0
+"Incentivazione della produzione distribuita di energia elettrica con tecnologie che utilizzano le fonti fossili nei modi più efficienti, come la co-generazione diffusa di energia elettrica e calore, a partire dagli edifici più energivori: ospedali, centri com-merciali, industrie con processi che utilizzano calore tecnologico, centri sportivi ecc.","501",0
+"Estensione della possibilità di riversare in rete e di vendere l’energia elettrica anche agli impianti di micro-cogenerazione di taglia inferiore ai 20 kW","501",0
+"Incentivazione della produzione distribuita di energia elettrica estendendo a tutte le fonti rinnovabili e alla micro-cogenerazione diffusa la normativa del conto energia, vincolandola ai kW riversati in rete nelle ore di punta ed escludendo i chilowattora prodotti nelle ore vuote","501",0
+"Applicazione rigorosa della normativa prevista dai decreti sui certificati di efficienza energetica, anche in considerazione dell’incentivazione alla produzione di energia elettrica da fonti rinnovabili che essi comportano","501",0
+"Eliminazione degli incentivi previsti dal CIP6 alla combustione dei rifiuti in base al loro inserimento, privo di fondamento tecnico-scientifico, tra le fonti rinnovabili","501",0
+"Legalizzazione e incentivazione della produzione di biocombustibili, vincolando all’incremento della sostanza organica nei suoli le produzioni agricole finalizzate a ciò","501",0
+"Incentivazione della produzione distribuita di energia termica con fonti rinnovabili, in particolare le biomasse vergini, in piccoli impianti finalizzati all’autoconsumo, con un controllo rigoroso del legno proveniente da raccolte differenziate ed esclu-dendo dagli incentivi la distribuzione a distanza del calore per la sua inefficienza e il suo impatto ambientale","501",0
+"Incentivazione della produzione di biogas dalla fermentazione anaerobica dei rifiuti organici.","501",0
+"L’informazione è uno dei fondamenti della democrazia e della sopravvivenza individuale.","202",0
+"Se il controllo dell’informazione è concentrato in pochi attori, inevitabilmente si manifestano derive antidemocratiche.","202",0
+"Se l’informazione ha come riferimenti i soggetti economici e non il cittadino, gli interessi delle multinazionali e dei gruppi di potere economico prevalgono sugli interessi del singolo.","202",0
+"L’informazione quindi è alla base di qualunque altra area di interesse sociale.","202",0
+"Il cittadino non informato o disinformato non può decidere, non può scegliere.","202",0
+"Assume un ruolo di consumatore e di elettore passivo, escluso dalle scelte che lo riguardano.","202",0
+"Le proposte:",NA,0
+"Cittadinanza digitale per nascita, accesso alla rete gratuito per ogni cittadino italiano","403",0
+"Eliminazione dei contributi pubblici per il finanziamento delle testate giornalistiche","403",0
+"Nessun canale televisivo con copertura nazionale può essere posseduto a maggioranza da alcun soggetto privato, l’azionariato deve essere diffuso con proprietà massima del 10%","403",0
+"Le frequenze televisive vanno assegnate attraverso un’asta pubblica ogni cinque anni","403",0
+"Abolizione della legge del governo D’Alema che richiede un contributo dell’uno per cento sui ricavi agli assegnatari di frequenze televisive","403",0
+"Nessun quotidiano con copertura nazionale può essere posseduto a maggioranza da alcun soggetto privato, l’azionariato diffuso con proprietà massima del 10%","403",0
+"Abolizione dell’Ordine dei giornalisti","403",0
+"Vendita ad azionariato diffuso, con proprietà massima del 10%, di due canali televisivi pubblici","403",0
+"Un solo canale televisivo pubblico, senza pubblicità, informativo e culturale,indipendente dai partiti","403",0
+"Abolizione della legge Gasparri","403",0
+"Copertura completa dell’ADSL a livello di territorio nazionale","411",0
+"Statalizzazione della dorsale telefonica, con il suo riacquisto a prezzo di costo da Telecom Italia, e l’impegno da parte dello Stato di fornire gli stessi servizi a prezzi competitivi ad ogni operatore telefonico","413",0
+"•  Abolizione  della  legge  Pisanu  sulla  limitazione  all’accesso  wi f i.=   obiettivo  raggiunto","411",0
+"Introduzione dei ripetitori Wimax per l’accesso mobile e diffuso alla Rete","411",0
+"Eliminazione del canone telefonico per l’allacciamento alla rete fissa","403",0
+"Allineamento immediato delle tariffe di connessione a Internet e telefoniche a quelle europee","403",0
+"Tetto nazionale massimo del 5% per le società di raccolta pubblicitaria facenti capo a un singolo soggetto economico privato","403",0
+"Riduzione del tempo di decorrenza della proprietà intellettuale a 20 anni","403",0
+"Abolizione della legge Urbani sul copyright","403",0
+"Divieto della partecipazione azionaria da parte delle banche e di enti pubblici o para pubblici a società editoriali","403",0
+"Depenalizzazione della querela per diffamazione e riconoscimento al querelato dello stesso importo richiesto in caso di non luogo a procedere (importo depositato presso il tribunale in anticipo in via cautelare all’atto della querela)","403",0
+"ECONOMIA",NA,0
+"Introduzione della class action","403",0
+"Abolizione delle scatole cinesi in Borsa","403",0
+"Abolizione di cariche multiple da parte di consiglieri di amministrazione nei consigli di società quotate","403",0
+"Introduzione di strutture di reale rappresentanza dei piccoli azionisti nelle società quotate","403",0
+"Abolizione della legge Biagi","701",0
+"Impedire lo smantellamento delle industrie alimentari e manifatturiere con un prevalente mercato interno","402",0
+"Vietare gli incroci azionari tra sistema bancario e sistema industriale","403",0
+"Introdurre la responsabilità degli istituti finanziari sui prodotti proposti con una compartecipazione alle eventuali perdite","403",0
+"Impedire ai consiglieri di amministrazione di ricoprire alcuna altra carica nella stessa società se questa si è resa responsabile di gravi reati","403",0
+"Impedire l’acquisto prevalente a debito di una società (es. Telecom Italia)","403",0
+"Introduzione di un tetto per gli stipendi del management delle aziende quotate in Borsa e delle aziende con partecipazione rilevante o maggioritaria dello Stato","403",0
+"Abolizione delle stock option","403",0
+"Abolizione dei monopoli di fatto, in particolare Telecom Italia, Autostrade, ENI, ENEL, Mediaset, Ferrovie dello Stato","403",0
+"Allineamento delle tariffe di energia, connettività, telefonia, elettricità, trasporti agli altri Paesi europei","403",0
+"Riduzione del debito pubblico con forti interventi sui costi dello Stato con il taglio degli sprechi e con l’introduzione di nuove tecnologie per consentire al cittadino l’accesso alle informazioni e ai servizi senza bisogno di intermediari","303",0
+"Vietare la nomina di persone condannate in via definitiva (es. Scaroni all’Eni) come amministratori in aziende aventi come azionista lo Stato o quotate in Borsa","605",0
+"Favorire le produzioni locali","416",0
+"Sostenere le società no profit","416",0
+"Sussidio di disoccupazione garantito","701",0
+"Disincentivi alle aziende che generano un danno sociale (es.distributori di acqua in bottiglia).","403",0
+"TRASPORTI",NA,0
+"Disincentivo dell’uso dei mezzi privati motorizzati nelle aree urbane","501",0
+"Sviluppo di reti di piste ciclabili protette estese a tutta l’area urbana ed extra urbana","501",0
+"Istituzione di spazi condominiali per il parcheggio delle biciclette","501",0
+"Istituzione dei parcheggi per le biciclette nelle aree urbane","501",0
+"Introduzione di una forte tassazione per l’ingresso nei centri storici di automobili private con un solo occupante a bordo","501",0
+"Potenziamento dei mezzi pubblici a uso collettivo e dei mezzi pubblici a uso individuale (car sharing) con motori elettrici alimentati da reti","501",0
+"Blocco immediato del Ponte sullo Stretto","501",0
+"Blocco immediato della Tav in Val di Susa","501",0
+"Proibizione di costruzione di nuovi parcheggi nelle aree urbane","501",0
+"Sviluppo delle tratte ferroviarie legate al pendolarismo","411",0
+"Copertura dell’intero Paese con la banda larga","411",0
+"Incentivazione per le imprese che utilizzano il telelavoro","402",0
+"Sistema di collegamenti efficienti tra diverse forme di trasporto pubblici","402",0
+"Incentivazione di strutture di accoglienza per uffici dislocati sul territorio collegati a Internet","402",0
+"Incentivazione dei mercati locali con produzioni provenienti dal territorio","416",0
+"Corsie riservate per i mezzi pubblici nelle aree urbane","501",0
+"Piano di mobilità per i disabili obbligatorio a livello comunale.","705",0
+"SALUTE",NA,0
+"L’Italia è uno dei pochi Paesi con un sistema sanitario pubblico ad accesso universali.","504",0
+"Due fatti però stanno minando alle basi l’universalità e l’omogeneità del Servizio Sanitario Nazionale: la devolution, che affida alle Regioni l’assistenza sanitaria e il suo finanziamento e accentua le differenze territoriali, e la sanità privata che sottrae risorse e talenti al pubblico.","504",0
+"Si tende inoltre ad organizzare la Sanità come un’azienda e a far prevalere gli obiettivi economici rispetto a quelli di salute e di qualità dei servizi.","504",0
+"GRATUITÀ DELLE CURE ED EQUITÀ DI ACCESSO",NA,0
+"Garantire l’accesso alle prestazioni essenziali del Servizio Sanitario Nazionale universale e gratuito","504",0
+"Ticket proporzionali al reddito per le prestazioni non essenziali","504",0
+"Monitorare e correggere gli effetti della devolution sull’equità d’accesso alla Sanità","504",0
+"FARMACI",NA,0
+"Promuovere l’uso di farmaci generici e fuori brevetto, equivalenti e meno costosi rispetto ai farmaci “di marca” (che in Italia costano spesso di più che all’estero) e più sicuri rispetto ai prodotti di recente approvazione","403",0
+"Prescrizione medica dei principi attivi invece delle marche delle singole specialità (come avviene ad esempio in Gran Bretagna)","403",0
+"INFORMAZIONE",NA,0
+"Programma di educazione sanitaria indipendente pubblico e permanente sul corretto uso dei farmaci, sui loro rischi e benefici","504",0
+"Politica sanitaria nazionale di tipo culturale per promuovere stili di vita salutari e scelte di consumo consapevoli per sviluppare l’autogestione della salute (operando sui fattori di rischio e di protezione delle malattie) e l’automedicazione semplice","504",0
+"Informare sulla prevenzione primaria (alimentazione sana, attività fisica, astensione dal fumo) e sui limiti della prevenzione secondaria (screening, diagnosi precoce, medicina predittiva), ridimensionandone la portata, perché spesso risponde a logiche commerciali","504",0
+"Sistema di misurazione della qualità degli interventi negli ospedali (tassi di successo, mortalità, volume dei casi trattati ecc.) di pubblico dominio","504",0
+"MEDICI",NA,0
+"Proibire gli incentivi economici agli informatori “SCIENTIFICI” sulle vendite dei farmaci","403",0
+"Separare le carriere dei medici pubblici e privati, non consentire a un medico che lavora in strutture pubbliche di Operare nel privato","403",0
+"Incentivazione della permanenza dei medici nel pubblico, legandola al merito con tetti massimi alle tariffe richieste in sede privata","403",0
+"Criteri di trasparenza e di merito nella promozione dei primari","403",0
+"ORGANIZZAZIONE",NA,0
+"Liste di attesa pubbliche e on line","504",0
+"Istituzione di centri unici di prenotazione on line","504",0
+"Convenzioni con le strutture private rese pubbliche e on line","504",0
+"Investire sui consultori familiari","504",0
+"Limitare l’influenza dei direttori generali nelle ASL e negli ospedali attraverso la reintroduzione dei consigli di amministrazione","504",0
+"LOTTA PER IL DOLORE",NA,0
+"Allineare l’Italia agli altri Paesi europei e alle direttive dell’Organizzazione Mondiale della Sanità (OMS) nella lotta al dolore.","504",0
+"In particolare per l’uso degli oppiacei (morfina e simili)","504",0
+"RICERCA",NA,0
+"Possibilità dell’8 per mille alla ricerca medico-scientifica","504",0
+"Finanziare la ricerca indipendente attingendo ai fondi destinati alla ricerca militare","504",0
+"Promuovere e finanziare ricerche sugli effetti sulla salute, in particolare legate alle disuguaglianze sociali e all’inquinamento ambientale dando priorità ai ricercatori indipendenti","504",0
+"Promuovere la ricerca sulle malattie rare e spesare le cure all’estero in assenza di strutture nazionali","504",0
+"Introdurre, sulla base delle raccomandazioni dell’OMS, a livello di Governo centrale e regionale, la valutazione dell’impatto sanitario delle politiche pubbliche, in particolare per i settori dei trasporti, dell’urbanistica, dell’ambiente, del lavoro e dell’educazione","504",0
+"AMMINISTRATORI PUBBLICI",NA,0
+"Eliminazione degli inceneritori","501",0
+"Introduzione del reato di strage per danni sensibili e diffusi causati dalle politiche locali e nazionali che comportano malattie e decessi nei cittadini nei confronti degli amministratori pubblici (ministri, presidenti di Regione, sindaci, assessori).","605",0
+"ISTRUZIONE",NA,0
+"Abolizione della legge Gelmini","506",0
+"Diffusione obbligatoria di Internet nelle scuole con l’accesso per gli studenti","506",0
+"Graduale abolizione dei libri di scuola stampati, e quindi la loro gratuità, con l’accessibilità via Internet in formato digitale","506",0
+"Insegnamento obbligatorio della lingua inglese dall’asilo","506",0
+"Abolizione del valore legale dei titoli di studio","506",0
+"Risorse finanziarie dello Stato erogate solo alla scuola pubblica","506",0
+"Valutazione dei docenti universitari da parte degli studenti","506",0
+"Insegnamento gratuito della lingua italiana per gli stranieri(obbligatorio in caso di richiesta di cittadinanza)","506",0
+"Accesso pubblico via Internet alle lezioni universitarie","506",0
+"Investimenti nella ricerca universitaria a distanza via Internet","506",0
+"Integrazione Università/Aziende","506",0
+"Sviluppo strutture di accoglienza degli studenti","506",0
