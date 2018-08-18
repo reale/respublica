@@ -2,11 +2,8 @@
 *pickle
 *pyc
 
-
-
-
-
-
+news.json
+topics.json
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
