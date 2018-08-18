@@ -1,103 +1,82 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-  <head>
-    <meta name="generator" content=
-    "HTML Tidy for HTML5 for Linux version 5.4.0" />
-    <meta charset="utf-8" />
-    <meta name="viewport" content=
-    "width=device-width, initial-scale=1.0" />
-    <meta name="description" content=
-    "A Web Interface to the Manifestoproject Classifier" />
-    <title>
-      FIPI
-    </title>
-    <link rel="stylesheet" href=
-    "http://yui.yahooapis.com/pure/0.6.0/pure-min.css" />
-    <link rel="stylesheet" href=
-    "http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css" />
-    <link rel="stylesheet" href="layout/pure-blog.css" />
-    <style type="text/css">
-    /*<![CDATA[*/
-    div.c6 {vertical-align:middle;text-align:center;}
-    a.c5 {color: inherit;}
-    /*]]>*/
-    </style>
-  </head>
-  <body>
-    <div id="layout" class="pure-g">
-      <div class="sidebar pure-u-1 pure-u-md-1-4 header">
-        <h1 class="brand-title">
-          <a href="index.html" class="c5">FIPI</a>
-        </h1>
-        <h2 class="brand-tagline">
-          <a href="index.html" class="c5">Für Ihre Politische
-          Information</a>
-        </h2>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Analisi automatica di testi politici">
+  <title>Manifesto</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="layout/pure-blog.css">
+</head>
+
+<body>
+  <div id="layout" class="pure-g">
+
+    <!-- sidebar -->
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+      <div class="header">
+        <h1 class="brand-title"><a href="index.html" style="color: inherit;">Manifesto</a></h1>
+        <h2 class="brand-tagline"><a href="index.html" style="color: inherit;">Analisi automatica di testi politici</a></h2>
         <nav class="nav">
           <ul class="nav-list">
             <li class="nav-item">
-              <a class="pure-button" href="queryText.html">Text
-              Analyse</a>
+              <a class="pure-button" href="queryText.html">Analizza un testo</a>
             </li>
             <li class="nav-item">
-              <a class="pure-button" href="queryUrl.html">Link
-              Analyse</a>
+              <a class="pure-button" href="queryUrl.html">Analizza un link</a>
             </li>
-            <li class="nav-item">
-              <a class="pure-button" href=
-              "news.html">Nachrichten</a>
+            <li class="nav-item"><a class="pure-button" href="news.html">Analizza le fonti</a>
             </li>
           </ul>
         </nav>
       </div>
-      <div class="content pure-u-1 pure-u-md-3-4 c6">
-        <!-- A wrapper for all the blog posts -->
+    </div>
+
+    <div class="content pure-u-1 pure-u-md-3-4" style="vertical-align:middle;text-align:center;">
+      <div>
+        <!-- main content -->
         <div class="posts">
-          <h1 class="content-subhead">
-            Analysiere Text
-          </h1><input class="pure-form pure-u-md-3-5" type="text"
-          id="textBox" value="Sicherheit" /> <button class=
-          "pure-button" onclick=
-          "visualize(textBox, text)">Analysiere</button>
+          <h1 class="content-subhead">Analizza un testo</h1>
+          <textarea class="pure-form pure-u-md-3-5" trows="4" cols="50" id="textBox" >
+            L'Italia è una Repubblica democratica, fondata sul lavoro.
+            La sovranità appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione.
+          </textarea>
+          <button class="pure-button" onclick="visualize(textBox, text)">Analizza</button>
           <p id="result"></p>
         </div>
-        <div class="footer pure-menu pure-menu-horizontal">
-          <ul>
-            <li class="pure-menu-item">
-              <a href="http://purecss.io/" class=
-              "pure-menu-link">Layout</a>
-            </li>
-            <li class="pure-menu-item">
-              <a href="https://github.com/felixbiessmann/fipi"
-              class="pure-menu-link">GitHub</a>
-            </li>
-            <li class="pure-menu-item">
-              <a href="https://manifestoproject.wzb.eu/" class=
-              "pure-menu-link">Manifestoproject</a>
-            </li>
-          </ul>
+
+        <!-- footer -->
+        <div class="footer">
+          <div class="pure-menu pure-menu-horizontal">
+            <ul>
+              <li class="pure-menu-item">
+                <a href="https://purecss.io/" class="pure-menu-link">Layout</a>
+              </li>
+              <li class="pure-menu-item">
+                <a href="https://github.com/robertoreale/manifesto"
+                class="pure-menu-link">GitHub</a>
+              </li>
+              <li class="pure-menu-item">
+                <a href="https://manifestoproject.wzb.eu/" class="pure-menu-link">Manifestoproject</a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="javascript/d3.js"></script>
-    
-    <script type="text/javascript" src=
-    "javascript/d3-visualization.js"></script> 
-    <script type="text/javascript">
-    //<![CDATA[
 
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    //]]>
-    </script> 
-    <script type="text/javascript">
-    //<![CDATA[
+  </div>
 
-    try {
-    var pageTracker = _gat._getTracker("UA-9237003-3");
-    pageTracker._trackPageview();
-    } catch(err) {}
-    //]]>
-    </script>
-  </body>
+  <script type="text/javascript" src="javascript/d3.js"></script> 
+  <script type="text/javascript" src="javascript/d3-visualization.js"></script> 
+
+</body>
 </html>
