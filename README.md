@@ -10,12 +10,12 @@ A preliminary [demo can be found here](http://fipi-dev.elasticbeanstalk.com/).
 
 ## Local setup in virtualenv
 
-Install [virualenv(-wrapper)](https://virtualenvwrapper.readthedocs.org/en/latest/).
+Install [virtualenvwrapper)](https://virtualenvwrapper.readthedocs.org/en/latest/). 
 In the folder containing the directory cloned from github then type:
 
-    mkvirtualenv -a fipi fipi
+    mkvirtualenv -a manifesto manifesto
 
-Go to the `web/` folder and  install the dependencies with
+Go to the `web` folder and install the dependencies with
 
     pip install -r requirements.txt
 
