@@ -14,7 +14,7 @@ This code is based on a couple of earlier projects, namely:
 
 ### Local setup in virtualenv
 
-Install [virtualenvwrapper)](https://virtualenvwrapper.readthedocs.org/en/latest/). 
+Install [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/). 
 In the folder containing the directory cloned from github then type:
 
     mkvirtualenv -a programma programma
