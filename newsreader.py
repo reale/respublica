@@ -26,7 +26,7 @@ def get_news(sources=['corriere', 'fatto', 'giornale', 'libero', 'repubblica', '
     '''
     import classifier
     from bs4 import BeautifulSoup
-    from api import fetch_url
+    from api import fetch_url, basic_fetch_url
     import urllib2
     
     articles = []
@@ -34,6 +34,8 @@ def get_news(sources=['corriere', 'fatto', 'giornale', 'libero', 'repubblica', '
     # the classifier for prediction of political attributes 
     clf = classifier.Classifier(train=False)
     
+    for source in sources:
+
         if source is 'corriere':
             # fetching articles from 'Corriere della Sera'
             url = 'https://www.corriere.it/politica/'

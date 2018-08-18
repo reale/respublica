@@ -16,6 +16,9 @@ app = Flask(__name__)
 DEBUG = os.environ.get('DEBUG') != None
 VERSION = 0.1
 
+# a few newspapers (e.g., Libero) seem to be rather picky...
+USER_AGENT = 'Mozilla/5.0'
+
 # Schedules news reader to be run at 00:00
 scheduler = BackgroundScheduler()
 scheduler.add_job(get_news, 'interval', minutes=360)
@@ -26,7 +29,7 @@ def basic_fetch_url(url):
     '''
     get url
     '''
-    request = urllib2.Request(url, headers={'User-Agent': user_agent})
+    request = urllib2.Request(url, headers={'User-Agent': USER_AGENT})
     return urllib2.urlopen(request).read()
 
 def fetch_url(url):
