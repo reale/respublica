@@ -22,11 +22,18 @@ scheduler.add_job(get_news, 'interval', minutes=360)
 scheduler.start()
 
 @retry(stop_max_attempt_number=5)
+def basic_fetch_url(url):
+    '''
+    get url
+    '''
+    request = urllib2.Request(url, headers={'User-Agent': user_agent})
+    return urllib2.urlopen(request).read()
+
 def fetch_url(url):
     '''
     get url with readability
     '''
-    html = urllib2.urlopen(url).read()
+    html = basic_fetch_url(url)
     readable_article = Document(html).summary()
     title = Document(html).short_title()
     text = BeautifulSoup(readable_article).get_text()

@@ -13,16 +13,15 @@ import itertools
 from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy import double,zeros
 
-def get_news(sources=['spiegel','faz','welt','zeit']):
+def get_news(sources=['corriere', 'fatto', 'giornale', 'libero', 'repubblica', 'sole24ore']):
     '''
-    Collects all news articles from political ressort of major German newspapers
+    Collects all news articles from political ressort of six major Italian newspapers
     Articles are transformed to BoW vectors and assigned to a political party
     For better visualization, articles' BoW vectors are also clustered into topics
 
     INPUT
     folder      the model folder containing classifier and BoW transformer
     sources     a list of strings for each newspaper for which a crawl is implemented
-                default ['zeit','sz']
 
     '''
     import classifier
@@ -35,41 +34,47 @@ def get_news(sources=['spiegel','faz','welt','zeit']):
     # the classifier for prediction of political attributes 
     clf = classifier.Classifier(train=False)
     
-    for source in sources:
-
-        if source is 'spiegel':
-            # fetching articles from sueddeutsche.de/politik
-            url = 'http://www.spiegel.de/politik'
-            site = BeautifulSoup(urllib2.urlopen(url).read())
-            titles = site.findAll("div", { "class" : "teaser" })
-            urls = ['http://www.spiegel.de'+a.findNext('a')['href'] for a in titles]
+        if source is 'corriere':
+            # fetching articles from 'Corriere della Sera'
+            url = 'https://www.corriere.it/politica/'
+            site = BeautifulSoup(basic_fetch_url(url))
+            titles = site.findAll("h3", { "class" : "title_art" })
+            urls = ['https:'+a.findNext('a')['href'] for a in titles]
          
-        if source is 'faz':
-            # fetching articles from sueddeutsche.de/politik
-            url = 'http://www.faz.net/aktuell/politik'
-            site = BeautifulSoup(urllib2.urlopen(url).read())
-            titles = site.findAll("a", { "class" : "TeaserHeadLink" })
-            urls = ['http://www.faz.net'+a['href'] for a in titles]
-         
-        if source is 'welt':
-            # fetching articles from sueddeutsche.de/politik
-            url = 'http://www.welt.de/politik'
-            site = BeautifulSoup(urllib2.urlopen(url).read())
-            titles = site.findAll("a", { "class" : "as_teaser-kicker" })
-            urls = [a['href'] for a in titles]
-         
-        if source is 'sz-without-readability':
-            # fetching articles from sueddeutsche.de/politik
-            url = 'http://www.sueddeutsche.de/politik'
-            site = BeautifulSoup(urllib2.urlopen(url).read())
-            titles = site.findAll("div", { "class" : "teaser" })
+        if source is 'fatto':
+            # fetching articles from 'Il Fatto Quotidiano'
+            url = 'https://www.ilfattoquotidiano.it/politica-palazzo/'
+            site = BeautifulSoup(basic_fetch_url(url))
+            titles = site.findAll("h2", { "class" : "title" })
             urls = [a.findNext('a')['href'] for a in titles]
-       
-        if source is 'zeit':
-            # fetching articles from zeit.de/politik
-            url = 'http://www.zeit.de/politik'
-            site = BeautifulSoup(urllib2.urlopen(url).read())
-            urls = [a['href'] for a in site.findAll("a", { "class" : "teaser-small__combined-link" })]
+         
+        if source is 'giornale':
+            # fetching articles from 'il Giornale'
+            url = 'http://www.ilgiornale.it/sezioni/interni.html'
+            site = BeautifulSoup(basic_fetch_url(url))
+            titles = site.findAll("h2", { "class" : "entry-title" })
+            urls = ['http://www.ilgiornale.it'+a.findNext('a')['href'] for a in titles]
+
+        if source is 'libero':
+            # fetching articles from 'Libero'
+            url = 'http://www.liberoquotidiano.it/sezioni/14/politica'
+            site = BeautifulSoup(basic_fetch_url(url))
+            titles = site.findAll("h2", { "class" : "titolo" })
+            urls = [a.findNext('a')['href'] for a in titles]
+
+        if source is 'repubblica':
+            # fetching articles from 'la Repubblica'
+            url = 'https://www.repubblica.it/politica/'
+            site = BeautifulSoup(basic_fetch_url(url))
+            titles = site.findAll("h2", { "class" : "entry-title" })
+            urls = [a.findNext('a')['href'] for a in titles]
+         
+        if source is 'sole24ore':
+            # fetching articles from 'Il Sole 24 Ore'
+            url = 'http://www.ilsole24ore.com/notizie/politica.shtml'
+            site = BeautifulSoup(basic_fetch_url(url))
+            titles = site.findAll("h3", { "class" : "mid" })
+            urls = ['http://www.ilsole24ore.com'+a.findNext('a')['href'] for a in titles]
 
         print "Found %d articles on %s"%(len(urls),url)
          
