@@ -1,19 +1,23 @@
-# Manifesto: automated political text analysis
+# Programma: automated analysis of Italian political texts
 
-A project for political education based on simple machine learning applied to texts of political manifestos, annotated by the political scientists of the [Manifesto Project](https://manifestoproject.wzb.eu/). 
+**Programma** is a simple machine learning model applied to texts of political manifestos, annotated by the political scientists of the [Manifesto Project](https://manifestoproject.wzb.eu/). 
 
 The idea is to use the high-quality (but relatively low volume) manifesto project data annotated by human experts in order to train a text-classification model that can be used to extrapolate the experts' annotations to larger text corpora such as news articles. The hope is to support political education. 
 
-This code is partially based on an [earlier project](https://github.com/kirel/political-affiliation-prediction), which learned a similar text classification model on speeches in the German Parliament. 
+This code is based on a couple of earlier projects, namely:
 
-A preliminary [demo can be found here](http://fipi-dev.elasticbeanstalk.com/).
+* [fipi (fuer ihre politische information)](https://github.com/felixbiessmann/fipi);
+* [political-affiliation-prediction](https://github.com/kirel/political-affiliation-prediction), which learned a similar text classification model on speeches in the German Parliament.
 
-## Local setup in virtualenv
+
+## Installation
+
+### Local setup in virtualenv
 
 Install [virtualenvwrapper)](https://virtualenvwrapper.readthedocs.org/en/latest/). 
 In the folder containing the directory cloned from github then type:
 
-    mkvirtualenv -a manifesto manifesto
+    mkvirtualenv -a programma programma
 
 Go to the `web` folder and install the dependencies with
 
@@ -25,7 +29,7 @@ Start the webserver with
 
 Open a browser window and navigate to localhost:5000. 
 
-## Local setup with Docker
+### Local setup with Docker
 
 Install [Docker](https://docs.docker.com/engine/installation/) and start it. 
 In the project root folder then build the docker image and start it with:
@@ -34,7 +38,7 @@ In the project root folder then build the docker image and start it with:
 
 Open a browser window and navigate to [IP-of-docker-container]:5000.
 
-## Deploy with AWS Elasticbeanstalk
+### Deploy with AWS Elasticbeanstalk
 
 Install EB CLI
     
