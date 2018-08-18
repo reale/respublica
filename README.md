@@ -19,7 +19,7 @@ In the folder containing the directory cloned from github then type:
 
     mkvirtualenv -a programma programma
 
-Go to the `web` folder and install the dependencies with
+Go to the `programma` folder and install the dependencies with
 
     pip install -r requirements.txt
 
@@ -36,7 +36,8 @@ In the project root folder then build the docker image and start it with:
 
     docker-compose up
 
-Open a browser window and navigate to [IP-of-docker-container]:5000.
+Open a browser window and navigate to `[IP-of-docker-container]:5000`.
+Note: be aware of bug [#14755](https://github.com/moby/moby/issues/14755).
 
 ### Deploy with AWS Elasticbeanstalk
 
