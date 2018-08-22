@@ -1,6 +1,6 @@
-# Programma: automated analysis of Italian political texts
+# Res Publica: automated analysis of Italian political texts
 
-**Programma** is a simple machine learning model applied to texts of political manifestos, annotated by the political scientists of the [Manifesto Project](https://manifestoproject.wzb.eu/). 
+**Res Publica** is a simple machine learning model applied to texts of political manifestos, annotated by the political scientists of the [Manifesto Project](https://manifestoproject.wzb.eu/). 
 
 The idea is to use the high-quality (but relatively low volume) manifesto project data annotated by human experts in order to train a text-classification model that can be used to extrapolate the experts' annotations to larger text corpora such as news articles. The hope is to support political education. 
 
@@ -17,9 +17,9 @@ This code is based on a couple of earlier projects, namely:
 Install [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/). 
 In the folder containing the directory cloned from github then type:
 
-    mkvirtualenv -a programma programma
+    mkvirtualenv -a respublica respublica
 
-Go to the `programma` folder and install the dependencies with
+Go to the `respublica` folder and install the dependencies with
 
     pip install -r requirements.txt
 
